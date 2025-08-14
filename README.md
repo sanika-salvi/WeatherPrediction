@@ -29,6 +29,6 @@ The project uses historical weather data and integrates an interactive, responsi
 
 ## 📸 Screenshot
 
-![Weather Forecast Screenshot](static/img/weather-forecast.png)
+![Weather Forecast Screenshot](Weather.jpg)
 
 ---
