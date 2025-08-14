@@ -25,10 +25,6 @@ The project uses historical weather data and integrates an interactive, responsi
 - **ML Libraries**: Pandas, NumPy, Scikit-learn  
 - **Dataset**: `weather.csv`
 
----
 
-## 📸 Screenshot
-
-![Weather Forecast Screenshot](Weather.jpg)
 
 ---
